@@ -1,5 +1,7 @@
 # Video Finder
 
+![Screenshot](screenshot.jpg)
+
 ## Overview
 - Find video footage from an expedition for comms/outreach requests
 - includes resolution and location
