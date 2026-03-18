@@ -1,12 +1,15 @@
-# [PROJECT NAME]
+# Video Finder
 
 ## Overview
-
+- Find video footage from an expedition for comms/outreach requests
+- includes resolution and location
+  
 ## Prerequisites
+- Python
 
 ## Installing
+- pip install hachoir
 
-## Resources
 
 ## Version Control Platform
 - Git
